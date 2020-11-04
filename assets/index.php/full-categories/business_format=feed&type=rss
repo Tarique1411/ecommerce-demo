@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Business</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost/news24/index.php/full-categories/business</link>
+		<lastBuildDate>Sat, 14 Jul 2018 07:00:01 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/news24/index.php/full-categories/business?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>htmgarcia@gmail.com (News 24)</managingEditor>
+		<item>
+			<title>Adipisicing elit, sed do eiusmod tempor.</title>
+			<link>http://localhost/news24/index.php/full-categories/business/21-adipisicing-elit-sed-do-eiusmod-tempor</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/full-categories/business/21-adipisicing-elit-sed-do-eiusmod-tempor</guid>
+			<description><![CDATA[<p>Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo, eget mollis ipsum fermentum eu. Donec posuere justo vel leo vehicula volutpat. Praesent leo urna, ultrices in rutrum consectetur, condimentum vel mauris. Fusce quam metus, consequat quis lacinia ut, posuere sit amet enim. Suspendisse dignissim iaculis tempus. Pellentesque pharetra faucibus neque, ac imperdiet mi vehicula vel. Suspendisse aliquam varius nibh, auctor iaculis velit fermentum ut.</p>
+]]></description>
+			<author>mail@nomail.com (Super User)</author>
+			<category>Business</category>
+			<pubDate>Wed, 22 May 2013 02:57:06 +0000</pubDate>
+		</item>
+		<item>
+			<title>Improving the web</title>
+			<link>http://localhost/news24/index.php/full-categories/business/26-improving-the-web</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/full-categories/business/26-improving-the-web</guid>
+			<description><![CDATA[<p>Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.</p>
+]]></description>
+			<author>mail@nomail.com (Super User)</author>
+			<category>Business</category>
+			<pubDate>Wed, 22 May 2013 02:57:06 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

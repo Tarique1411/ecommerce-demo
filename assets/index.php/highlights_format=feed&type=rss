@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Highlights</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost/news24/index.php/highlights</link>
+		<lastBuildDate>Sat, 14 Jul 2018 07:00:52 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/news24/index.php/highlights?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>htmgarcia@gmail.com (News 24)</managingEditor>
+		<item>
+			<title>Cras non odio viverra libero</title>
+			<link>http://localhost/news24/index.php/highlights/1-cras-non-odio-viverra-libero</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/highlights/1-cras-non-odio-viverra-libero</guid>
+			<description><![CDATA[<p>Aenean nunc mauris, mattis nec tristique ac, tincidunt ut orci. Sed eu elit dolor, vel posuere quam. Sed in nibh nunc. Nulla facilisi. Vivamus pharetra sollicitudin massa, at pretium lacus sollicitudin ac. Integer arcu velit, ultricies quis ultrices vel, vestibulum sed velit. Ut eros justo, condimentum sed adipiscing vitae, cursus sit amet felis. Aenean vel metus ac nulla luctus viverra nec et lacus. Vivamus vestibulum vulputate mollis. Donec vel urna ligula. Proin pulvinar ante at neque molestie ut euismod nisl porta. Proin ac risus lorem. Quisque eu urna purus, iaculis pharetra libero.</p>]]></description>
+			<author>mail@nomail.com (Super User)</author>
+			<category>Highlights</category>
+			<pubDate>Tue, 21 May 2013 17:04:41 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ut pharetra pellentesque nulla</title>
+			<link>http://localhost/news24/index.php/highlights/2-ut-pharetra-pellentesque-nulla</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/highlights/2-ut-pharetra-pellentesque-nulla</guid>
+			<description><![CDATA[<p>Aenean nunc mauris, mattis nec tristique ac, tincidunt ut orci. Sed eu elit dolor, vel posuere quam. Sed in nibh nunc. Nulla facilisi. Vivamus pharetra sollicitudin massa, at pretium lacus sollicitudin ac. Integer arcu velit, ultricies quis ultrices vel, vestibulum sed velit. Ut eros justo, condimentum sed adipiscing vitae, cursus sit amet felis. Aenean vel metus ac nulla luctus viverra nec et lacus. Vivamus vestibulum vulputate mollis. Donec vel urna ligula. Proin pulvinar ante at neque molestie ut euismod nisl porta. Proin ac risus lorem. Quisque eu urna purus, iaculis pharetra libero.</p>]]></description>
+			<author>mail@nomail.com (Super User)</author>
+			<category>Highlights</category>
+			<pubDate>Tue, 21 May 2013 17:04:41 +0000</pubDate>
+		</item>
+		<item>
+			<title>Quisque mattis mauris justo</title>
+			<link>http://localhost/news24/index.php/highlights/3-quisque-mattis-mauris-justo</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/highlights/3-quisque-mattis-mauris-justo</guid>
+			<description><![CDATA[<p>Aenean nunc mauris, mattis nec tristique ac, tincidunt ut orci. Sed eu elit dolor, vel posuere quam. Sed in nibh nunc. Nulla facilisi. Vivamus pharetra sollicitudin massa, at pretium lacus sollicitudin ac. Integer arcu velit, ultricies quis ultrices vel, vestibulum sed velit. Ut eros justo, condimentum sed adipiscing vitae, cursus sit amet felis. Aenean vel metus ac nulla luctus viverra nec et lacus. Vivamus vestibulum vulputate mollis. Donec vel urna ligula. Proin pulvinar ante at neque molestie ut euismod nisl porta. Proin ac risus lorem. Quisque eu urna purus, iaculis pharetra libero.</p>]]></description>
+			<author>mail@nomail.com (Super User)</author>
+			<category>Highlights</category>
+			<pubDate>Tue, 21 May 2013 17:04:41 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

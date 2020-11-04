@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Sports Preset</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://67.205.134.99"/>
+	<id>http://localhost/news24/index.php/home/sports-preset</id>
+	<updated>2018-07-14T06:59:10+00:00</updated>
+	<generator uri="http://joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost/news24/index.php/home/sports-preset?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Adipisicing elit, sed do eiusmod tempor.</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/full-categories/business/21-adipisicing-elit-sed-do-eiusmod-tempor"/>
+		<published>2013-05-22T02:57:06+00:00</published>
+		<updated>2013-05-22T02:57:06+00:00</updated>
+		<id>http://localhost/news24/index.php/full-categories/business/21-adipisicing-elit-sed-do-eiusmod-tempor</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo, eget mollis ipsum fermentum eu. Donec posuere justo vel leo vehicula volutpat. Praesent leo urna, ultrices in rutrum consectetur, condimentum vel mauris. Fusce quam metus, consequat quis lacinia ut, posuere sit amet enim. Suspendisse dignissim iaculis tempus. Pellentesque pharetra faucibus neque, ac imperdiet mi vehicula vel. Suspendisse aliquam varius nibh, auctor iaculis velit fermentum ut.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo, eget mollis ipsum fermentum eu. Donec posuere justo vel leo vehicula volutpat. Praesent leo urna, ultrices in rutrum consectetur, condimentum vel mauris. Fusce quam metus, consequat quis lacinia ut, posuere sit amet enim. Suspendisse dignissim iaculis tempus. Pellentesque pharetra faucibus neque, ac imperdiet mi vehicula vel. Suspendisse aliquam varius nibh, auctor iaculis velit fermentum ut.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Business" />
+		<category term="Categories" />
+	</entry>
+	<entry>
+		<title>All you need and no more.</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/full-categories/world-news/30-all-you-need-and-no-more"/>
+		<published>2013-05-22T02:57:06+00:00</published>
+		<updated>2013-05-22T02:57:06+00:00</updated>
+		<id>http://localhost/news24/index.php/full-categories/world-news/30-all-you-need-and-no-more</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.&lt;/p&gt;
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.&lt;/p&gt;
+&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="World News" />
+		<category term="Categories" />
+	</entry>
+</feed>

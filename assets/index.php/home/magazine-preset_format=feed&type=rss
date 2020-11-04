@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Magazine Preset</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost/news24/index.php/home/magazine-preset</link>
+		<lastBuildDate>Sat, 14 Jul 2018 06:58:35 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/news24/index.php/home/magazine-preset?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Adipisicing elit, sed do eiusmod tempor.</title>
+			<link>http://localhost/news24/index.php/full-categories/business/21-adipisicing-elit-sed-do-eiusmod-tempor</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/full-categories/business/21-adipisicing-elit-sed-do-eiusmod-tempor</guid>
+			<description><![CDATA[<div class="feed-description"><p>Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo, eget mollis ipsum fermentum eu. Donec posuere justo vel leo vehicula volutpat. Praesent leo urna, ultrices in rutrum consectetur, condimentum vel mauris. Fusce quam metus, consequat quis lacinia ut, posuere sit amet enim. Suspendisse dignissim iaculis tempus. Pellentesque pharetra faucibus neque, ac imperdiet mi vehicula vel. Suspendisse aliquam varius nibh, auctor iaculis velit fermentum ut.</p>
+</div>]]></description>
+			<author>mail@nomail.com (Super User)</author>
+			<category>Featured</category>
+			<category>Business</category>
+			<category>Categories</category>
+			<pubDate>Wed, 22 May 2013 02:57:06 +0000</pubDate>
+		</item>
+		<item>
+			<title>All you need and no more.</title>
+			<link>http://localhost/news24/index.php/full-categories/world-news/30-all-you-need-and-no-more</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/full-categories/world-news/30-all-you-need-and-no-more</guid>
+			<description><![CDATA[<div class="feed-description"><p>Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.</p>
+</div>]]></description>
+			<author>mail@nomail.com (Super User)</author>
+			<category>Featured</category>
+			<category>World News</category>
+			<category>Categories</category>
+			<pubDate>Wed, 22 May 2013 02:57:06 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

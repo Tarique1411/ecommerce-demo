@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Photo Gallery</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://67.205.134.99"/>
+	<id>http://localhost/news24/index.php/photo-gallery</id>
+	<updated>2018-07-14T07:01:02+00:00</updated>
+	<author>
+		<name>News 24</name>
+		<email>htmgarcia@gmail.com</email>
+	</author>
+	<generator uri="http://joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost/news24/index.php/photo-gallery?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Photo Article</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/41-photo-article"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/41-photo-article</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/42-photo-article-2"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/42-photo-article-2</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/43-photo-article-3"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/43-photo-article-3</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/44-photo-article-4"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/44-photo-article-4</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/45-photo-article-5"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/45-photo-article-5</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/46-photo-article-6"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/46-photo-article-6</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/47-photo-article-7"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/47-photo-article-7</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/48-photo-article-8"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/48-photo-article-8</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article (9)</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/49-photo-article-9"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/49-photo-article-9</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article (9)</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/50-photo-article-10"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/50-photo-article-10</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article (9)</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/51-photo-article-11"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/51-photo-article-11</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article (9)</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/52-photo-article-12"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/52-photo-article-12</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article (9)</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/53-photo-article-13"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/53-photo-article-13</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article (9)</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/54-photo-article-14"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/54-photo-article-14</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article (9)</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/55-photo-article-15"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/55-photo-article-15</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+	<entry>
+		<title>Photo Article (9)</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/photo-gallery/56-photo-article-16"/>
+		<published>2013-05-23T14:06:27+00:00</published>
+		<updated>2013-05-23T14:06:27+00:00</updated>
+		<id>http://localhost/news24/index.php/photo-gallery/56-photo-article-16</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Vestibulum convallis posuere felis, molestie malesuada urna mollis quis. Quisque enim dui, aliquet ut egestas luctus, bibendum ac nisi. Suspendisse posuere, nisl at porta pharetra, metus nisi blandit ante, sed sollicitudin dui sem ultrices erat. Maecenas tempus porttitor mi vel scelerisque.&lt;/p&gt;
+</content>
+		<category term="Photo Gallery" />
+	</entry>
+</feed>

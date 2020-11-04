@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>News 24</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost/news24/index.php/component/tags/tag/2</link>
+		<lastBuildDate>Sat, 14 Jul 2018 07:04:08 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/news24/index.php/component/tags/tag/2-tag-example?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>htmgarcia@gmail.com (News 24)</managingEditor>
+		<item>
+			<title>Google Map Post</title>
+			<link>http://localhost/news24/index.php/component/content/article?id=83:google-map-post</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/component/content/article?id=83:google-map-post</guid>
+			<description><![CDATA[<p>Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.</p>
+]]></description>
+			<category>Google Map Post</category>
+			<pubDate>Tue, 28 May 2013 06:38:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Slideshow Post</title>
+			<link>http://localhost/news24/index.php/component/content/article?id=84:slideshow-post</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/component/content/article?id=84:slideshow-post</guid>
+			<description><![CDATA[<p>Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.</p>
+]]></description>
+			<category>Slideshow Post</category>
+			<pubDate>Tue, 28 May 2013 06:38:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Vimeo Post</title>
+			<link>http://localhost/news24/index.php/component/content/article?id=82:vimeo-post</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/component/content/article?id=82:vimeo-post</guid>
+			<description><![CDATA[<p>Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.</p>
+]]></description>
+			<category>Vimeo Post</category>
+			<pubDate>Tue, 28 May 2013 06:38:31 +0000</pubDate>
+		</item>
+		<item>
+			<title>Youtube Post</title>
+			<link>http://localhost/news24/index.php/component/content/article?id=81:youtube-post</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/component/content/article?id=81:youtube-post</guid>
+			<description><![CDATA[<p>Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.</p>
+]]></description>
+			<category>Youtube Post</category>
+			<pubDate>Tue, 28 May 2013 06:38:31 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

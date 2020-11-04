@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Music</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost/news24/index.php/full-categories/music</link>
+		<lastBuildDate>Sat, 14 Jul 2018 07:00:06 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost/news24/index.php/full-categories/music?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>htmgarcia@gmail.com (News 24)</managingEditor>
+		<item>
+			<title>Narnia really exists on the closet</title>
+			<link>http://localhost/news24/index.php/full-categories/music/27-narnia-really-exists-on-the-closet</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/full-categories/music/27-narnia-really-exists-on-the-closet</guid>
+			<description><![CDATA[<p>Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.</p>
+]]></description>
+			<author>mail@nomail.com (Super User)</author>
+			<category>Music</category>
+			<pubDate>Wed, 22 May 2013 02:57:06 +0000</pubDate>
+		</item>
+		<item>
+			<title>The music sounds better with you</title>
+			<link>http://localhost/news24/index.php/full-categories/music/28-the-music-sounds-better-with-you</link>
+			<guid isPermaLink="true">http://localhost/news24/index.php/full-categories/music/28-the-music-sounds-better-with-you</guid>
+			<description><![CDATA[<p>Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim.</p>
+]]></description>
+			<author>mail@nomail.com (Super User)</author>
+			<category>Music</category>
+			<pubDate>Wed, 22 May 2013 02:57:06 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

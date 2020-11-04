@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">News 24</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://67.205.134.99"/>
+	<id>http://localhost/news24/index.php/component/tags/tag/4-joomla-3-1</id>
+	<updated>2018-07-14T07:04:15+00:00</updated>
+	<author>
+		<name>News 24</name>
+		<email>htmgarcia@gmail.com</email>
+	</author>
+	<generator uri="http://joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost/news24/index.php/component/tags/tag/4-joomla-3-1?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Google Map Post</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/component/content/article?id=83:google-map-post"/>
+		<published>2013-05-28T06:38:31+00:00</published>
+		<updated>2013-05-28T06:38:31+00:00</updated>
+		<id>http://localhost/news24/index.php/component/content/article?id=83:google-map-post</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.&lt;/p&gt;
+</content>
+		<category term="Google Map Post" />
+	</entry>
+	<entry>
+		<title>Slideshow Post</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/component/content/article?id=84:slideshow-post"/>
+		<published>2013-05-28T06:38:31+00:00</published>
+		<updated>2013-05-28T06:38:31+00:00</updated>
+		<id>http://localhost/news24/index.php/component/content/article?id=84:slideshow-post</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.&lt;/p&gt;
+</content>
+		<category term="Slideshow Post" />
+	</entry>
+	<entry>
+		<title>Vimeo Post</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/component/content/article?id=82:vimeo-post"/>
+		<published>2013-05-28T06:38:31+00:00</published>
+		<updated>2013-05-28T06:38:31+00:00</updated>
+		<id>http://localhost/news24/index.php/component/content/article?id=82:vimeo-post</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.&lt;/p&gt;
+</content>
+		<category term="Vimeo Post" />
+	</entry>
+	<entry>
+		<title>Youtube Post</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/component/content/article?id=81:youtube-post"/>
+		<published>2013-05-28T06:38:31+00:00</published>
+		<updated>2013-05-28T06:38:31+00:00</updated>
+		<id>http://localhost/news24/index.php/component/content/article?id=81:youtube-post</id>
+		<author>
+			<name>Super User</name>
+		</author>
+		<summary type="html">&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;Ut pellentesque rutrum fermentum. Sed sit amet libero a enim dapibus pharetra quis sit amet dui. Ut consequat condimentum nunc et dignissim. Duis iaculis iaculis justo.&lt;/p&gt;
+</content>
+		<category term="Youtube Post" />
+	</entry>
+</feed>

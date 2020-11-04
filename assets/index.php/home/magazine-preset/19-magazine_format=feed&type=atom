@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Magazine Preset</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://67.205.134.99"/>
+	<id>http://localhost/news24/index.php/home/magazine-preset/19-magazine</id>
+	<updated>2018-07-14T07:03:10+00:00</updated>
+	<author>
+		<name>News 24</name>
+		<email>htmgarcia@gmail.com</email>
+	</author>
+	<generator uri="http://joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost/news24/index.php/home/magazine-preset/19-magazine?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Consuming spending edges</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/home/magazine-preset/19-magazine/57-consuming-spending-edges"/>
+		<published>2013-05-22T07:06:01+00:00</published>
+		<updated>2013-05-22T07:06:01+00:00</updated>
+		<id>http://localhost/news24/index.php/home/magazine-preset/19-magazine/57-consuming-spending-edges</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and.&lt;/p&gt;
+</content>
+		<category term="Magazine" />
+	</entry>
+	<entry>
+		<title>Hot to ensure strong job</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/home/magazine-preset/19-magazine/58-hot-to-ensure-strong-job"/>
+		<published>2013-05-22T07:06:01+00:00</published>
+		<updated>2013-05-22T07:06:01+00:00</updated>
+		<id>http://localhost/news24/index.php/home/magazine-preset/19-magazine/58-hot-to-ensure-strong-job</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and.&lt;/p&gt;
+</content>
+		<category term="Magazine" />
+	</entry>
+	<entry>
+		<title>Starting a new business</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/home/magazine-preset/19-magazine/59-starting-a-new-business"/>
+		<published>2013-05-22T07:06:01+00:00</published>
+		<updated>2013-05-22T07:06:01+00:00</updated>
+		<id>http://localhost/news24/index.php/home/magazine-preset/19-magazine/59-starting-a-new-business</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and.&lt;/p&gt;
+</content>
+		<category term="Magazine" />
+	</entry>
+	<entry>
+		<title>Taxes are killing the poor people</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/home/magazine-preset/19-magazine/60-taxes-are-killing-the-poor-people"/>
+		<published>2013-05-22T07:06:01+00:00</published>
+		<updated>2013-05-22T07:06:01+00:00</updated>
+		<id>http://localhost/news24/index.php/home/magazine-preset/19-magazine/60-taxes-are-killing-the-poor-people</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and.&lt;/p&gt;
+</content>
+		<category term="Magazine" />
+	</entry>
+	<entry>
+		<title>War of power in Mexico</title>
+		<link rel="alternate" type="text/html" href="http://localhost/news24/index.php/home/magazine-preset/19-magazine/61-war-of-power-in-mexico"/>
+		<published>2013-05-22T07:06:01+00:00</published>
+		<updated>2013-05-22T07:06:01+00:00</updated>
+		<id>http://localhost/news24/index.php/home/magazine-preset/19-magazine/61-war-of-power-in-mexico</id>
+		<author>
+			<name>Super User</name>
+			<email>mail@nomail.com</email>
+		</author>
+		<summary type="html">&lt;p&gt;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and.&lt;/p&gt;
+</summary>
+		<content type="html">&lt;p&gt;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and.&lt;/p&gt;
+</content>
+		<category term="Magazine" />
+	</entry>
+</feed>
